@@ -1,0 +1,20 @@
+.input {
+  width: 100%;
+  border: 1px solid var(--flow-border);
+  border-radius: 0.75rem;
+  background: #ffffff;
+  color: var(--flow-text);
+  padding: 0.75rem 0.875rem;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.input::placeholder {
+  color: var(--flow-text-muted);
+}
+
+.input:focus {
+  border-color: var(--flow-accent);
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.15);
+}
