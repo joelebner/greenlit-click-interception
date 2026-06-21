@@ -34,7 +34,7 @@ export default function ComponentTestPage() {
     setEffectRunCount((count) => count + 1);
 
     try {
-      function handleDocumentClick(event: MouseEvent) {
+      const handleDocumentClick = (event: MouseEvent) => {
         console.log("[test-5] capture click", {
           eventPhase: event.eventPhase,
           target: event.target,
@@ -65,7 +65,7 @@ export default function ComponentTestPage() {
             label,
           },
         ]);
-      }
+      };
 
       const options: AddEventListenerOptions = { capture: true };
       window.addEventListener("click", handleDocumentClick, options);
