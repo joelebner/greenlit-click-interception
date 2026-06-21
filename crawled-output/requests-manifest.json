@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/search",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "savedTo": "crawled-output/search",
+    "bytes": 6920
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/chunks/app/search/page-ff06c5244b10278b.js",
+    "status": 200,
+    "contentType": "application/javascript; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/chunks/app/search/page-ff06c5244b10278b.js",
+    "bytes": 191
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/chunks/main-app-f9b5d20365cb8be2.js",
+    "status": 200,
+    "contentType": "application/javascript; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/chunks/main-app-f9b5d20365cb8be2.js",
+    "bytes": 557
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/css/b2096dfdf66a9d70.css",
+    "status": 200,
+    "contentType": "text/css; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/css/b2096dfdf66a9d70.css",
+    "bytes": 2489
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/chunks/619-ba102abea3e3d0e4.js",
+    "status": 200,
+    "contentType": "application/javascript; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/chunks/619-ba102abea3e3d0e4.js",
+    "bytes": 8537
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/chunks/4bd1b696-c023c6e3521b1417.js",
+    "status": 200,
+    "contentType": "application/javascript; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/chunks/4bd1b696-c023c6e3521b1417.js",
+    "bytes": 173019
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/chunks/webpack-4a462cecab786e93.js",
+    "status": 200,
+    "contentType": "application/javascript; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/chunks/webpack-4a462cecab786e93.js",
+    "bytes": 3770
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/chunks/255-98a0bdaa30757bda.js",
+    "status": 200,
+    "contentType": "application/javascript; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/chunks/255-98a0bdaa30757bda.js",
+    "bytes": 173381
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/track?_rsc=znyBdcYKFK2PO5sc",
+    "status": 200,
+    "contentType": "text/x-component",
+    "savedTo": "crawled-output/track__q__rsc_znyBdcYKFK2PO5sc.html",
+    "bytes": 4362
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/compare?_rsc=0leV8dnXq_VFbCDU",
+    "status": 200,
+    "contentType": "text/x-component",
+    "savedTo": "crawled-output/compare__q__rsc_0leV8dnXq_VFbCDU.html",
+    "bytes": 4783
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/book?_rsc=o1Qt2uzCYnU2mlUP",
+    "status": 200,
+    "contentType": "text/x-component",
+    "savedTo": "crawled-output/book__q__rsc_o1Qt2uzCYnU2mlUP.html",
+    "bytes": 3470
+  },
+  {
+    "url": "https://flight-tracker-fawn.vercel.app/_next/static/chunks/app/book/page-d8b2bb3664ccfbde.js",
+    "status": 200,
+    "contentType": "application/javascript; charset=utf-8",
+    "savedTo": "crawled-output/_next/static/chunks/app/book/page-d8b2bb3664ccfbde.js",
+    "bytes": 2098
+  }
+]

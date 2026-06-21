@@ -1,16 +1,14 @@
 "use client";
 
 const IFRAME_URLS = [
-  "https://placeholder-lovable-1.vercel.app",
-  "https://placeholder-lovable-2.vercel.app",
-  "https://placeholder-v0-1.vercel.app",
-  "https://placeholder-v0-2.vercel.app",
-  "https://placeholder-bolt-1.vercel.app",
-  "https://placeholder-bolt-2.vercel.app",
-  "https://placeholder-cursor-1.vercel.app",
-  "https://placeholder-cursor-2.vercel.app",
-  "https://placeholder-cursor-3.vercel.app",
-  "https://placeholder-cursor-4.vercel.app",
+  "https://flowstate-onboard-buddy.lovable.app/",
+  "https://flowcoder-onboard-buddy.lovable.app/",
+  "https://onboarding-flow-design-theta.vercel.app/",
+  "https://flowcoder-onboarding-flow.vercel.app/",
+  "https://flowstate-app-onboar-f5qj.bolt.host/",
+  "https://flowcoder-app-onboar-qozq.bolt.host/",
+  "https://flowstate-test.vercel.app/",
+  "https://flowcoder-test.vercel.app/",
 ];
 
 export default function Test1Page() {
